@@ -4,6 +4,3 @@ numpy
 joblib
 gdown
 scikit-learn
-matplotlib
-shap
-json5
